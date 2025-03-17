@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 106: expected 'simple_expression' not found.
+    show jgg at slight_zoom, right  with with easeinleft  
+                                         ^
+
+Ren'Py Version: Ren'Py 8.3.2.24090902
+Tue Feb 25 21:18:29 2025
